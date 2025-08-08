@@ -2,7 +2,7 @@ package com.example.crud.entity;
 
 import lombok.Data;
 
-import java.security.PrivateKey;
+
 
 @Data
 public class Student {
